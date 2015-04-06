@@ -8,4 +8,6 @@ If you've ever gone looking for assets for you iOS/OS X projects, you know it ca
 This is not a place to put the generated code that PaintCode produces. While that seems really tempting, I'd like to continue to show support for PixelCut©. They make a product truly worth purchasing, and this repository does not seek to stop the income they deserve. 
 
 ## What to do
-If you've got a PaintCode project you think is worth sharing, send me a pull request with your project and a screen shot of the stylekit (not including the code). Also include a short readme.md about what's included. For now, this is all I can think of to start getting this moving for free for other PaintCode users. If this proves to be successful, perhaps I'll think of something better. Feel free to create an issue if you have any questions. 
+If you've got a PaintCode project you think is worth sharing, send me a pull request with your project and a screen shot of the stylekit (not including the code). Also include a short readme.md about what's included. Make sure you don't leave anything filled out in the StyleKit export settings (created by, name, etc.). 
+
+For now, this is all I can think of to start getting this moving for free for other PaintCode users. If this proves to be successful, perhaps I'll think of something better. Feel free to create an issue if you have any questions. 
